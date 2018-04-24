@@ -1,8 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
+title: Football Ground Guide for Girls
+email: fggfg@thateden.co.uk
+description: All the important info for planning your travels to football matches.
+baseurl: "/fggfg"
 url: ""
 twitter_username: 
 avatar: "" # Set footer avatar
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Ground Girl" # Set default author name
+      categories: "grounds"
       layout: "post"
       comments: true
   -
